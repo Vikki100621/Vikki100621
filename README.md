@@ -1,6 +1,7 @@
-# Hi there, I'm [Victoriya](https://github.com/Vikki100621) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+<h1 align="center">Hi there, I'm <a href="https://Vikki100621.github.io/rsschool-cv/" target="_blank">Victoriya</a>👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+Front-End+Developer)](https://git.io/typing-svg)
+
 [![codewars](https://www.codewars.com/users/vikkiBlume/badges/small)](https://www.codewars.com/users/vikkiBlume) 
 
 - 🔭 I’m currently working on  my own personal react project 
