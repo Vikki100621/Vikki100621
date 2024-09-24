@@ -4,7 +4,7 @@
 
 [![codewars](https://www.codewars.com/users/vikkiBlume/badges/small)](https://www.codewars.com/users/vikkiBlume) 
 
-- 🔭 I’m currently working on  my own personal react project 
+- 🔭 I’m currently working at a German company, developing chatbots
 - 🌍 I speak Russian (native), German(B2+), English (B1+)
 - 🌞 I live in Cyprus
 
